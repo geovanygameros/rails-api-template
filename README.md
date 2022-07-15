@@ -16,7 +16,7 @@ Some of the perks using this template:
 - Pry
 - Etc...
 
-#Setup
+# Setup
 
 This template was built with Rails 7.0.3.1. To install it run ``gem install rails -v 7.0.3.1 ``
 
@@ -43,7 +43,7 @@ cp .env.example .env
 ```
 And that's it, you're ready to go 🚀
 
-#Contributions
+# Contributions
 
 Feel free to creat a PR with more basic tools that every new project should have to make our lives easier. 
 🤟
