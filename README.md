@@ -45,5 +45,5 @@ And that's it, you're ready to go 🚀
 
 #Contributions
 
-Feel free to creat a PR with more basic tools that every new project shou;d have to make our lives easier. 
+Feel free to creat a PR with more basic tools that every new project should have to make our lives easier. 
 🤟
