@@ -1106,13 +1106,5 @@ Style/RescueStandardError:
 Style/DisableCopsWithinSourceCodeDirective:
   Enabled: false
 
-Rails/SaveBang:
-  Exclude:
-    - 'app/services/crm/hubspot/sync_user.rb'
-    - 'app/models/carrier_manager/concerns/co/rotulable.rb'
-    - 'app/services/crm/hubspot/create_deal_service.rb'
-  AllowedReceivers:
-    - Conekta::Order
-
 Performance/OpenStruct:
   Enabled: false
